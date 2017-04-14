@@ -14,6 +14,7 @@ public class TestStr {
 			randoms.add(Math.random());
 		System.out.println("耗时: "+(System.currentTimeMillis() - startTimeStamp) + "毫秒");
         //加个测试
+		//测试个球
 	}
 
 }
