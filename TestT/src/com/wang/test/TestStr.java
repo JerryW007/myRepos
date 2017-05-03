@@ -15,6 +15,7 @@ public class TestStr {
 		System.out.println("耗时: "+(System.currentTimeMillis() - startTimeStamp) + "毫秒");
 		String aa = "T_2.4.6";
 		System.out.println(aa.substring(2));
+        //dfad
 
 	}
 
